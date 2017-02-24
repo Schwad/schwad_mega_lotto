@@ -6,5 +6,4 @@ rescue LoadError
 end
 
 module SchwadMegaLotto
-  # Your code goes here...
 end
