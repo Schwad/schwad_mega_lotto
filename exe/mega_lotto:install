@@ -2,6 +2,4 @@
 
 require_relative "../lib/schwad_mega_lotto/drawing"
 
-drawing = SchwadMegaLotto::Drawing.new.draw
-
-puts drawing
+#add mega_lotto.rb file in initializers
